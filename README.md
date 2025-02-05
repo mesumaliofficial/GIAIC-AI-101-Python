@@ -1,7 +1,5 @@
 # GIAIC-AI-101-Python
 
-Yeh raha ek **README.md** jo achay design mein hai aur har project ka short description bhi include hai.  
-
 ---
 
 ### **Python Projects Collection**  
@@ -60,5 +58,3 @@ streamlit run filename.py
 ✅ Explore Python libraries like Streamlit 🌐  
 
 ---
-
-**🚀 Start coding and have fun!** 😃
